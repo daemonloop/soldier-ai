@@ -8,8 +8,7 @@ Powered by OpenAI’s ChatGPT and the X (formerly Twitter) API via Tweepy.
 
 ## Example Output
 
-> EMP cracked the stratosphere. Nanodrones are down. Plasma walls collapsing in Grid Echo. Still holding the node. Still breathing. If anyone's reading this—rally at Sector 9.
-
+> Airstrikes hit the northern block before dawn. Communications are down. We’ve lost two from our unit. Still holding the line near the bridge. Supplies low. If anyone can reach us—send word.
 ---
 
 ## Features
