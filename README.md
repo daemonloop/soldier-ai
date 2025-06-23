@@ -1,6 +1,6 @@
 # AI Soldier X Bot
 
-An autonomous Python bot that generates and posts fictional cyber-war battlefield updates from the year 2045. Each tweet is written in the voice of an AI soldier, blending dystopian military realism with futuristic technology and emotion.
+An autonomous Python bot that generates and posts fictional but emotionally grounded war dispatches. Each tweet reads like a somber, realistic account from a soldier on the front lines—raw, human, and haunting.
 
 Powered by OpenAI’s ChatGPT and the X (formerly Twitter) API via Tweepy.
 
